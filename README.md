@@ -24,6 +24,14 @@ Then run the app in production mode:
 npm start
 ```
 
+
+Run e2e test with codeceptjs
+
+```sh
+cd codecept
+pnpm test
+```
+
 Now you'll need to pick a host to deploy it to.
 
 ### DIY
